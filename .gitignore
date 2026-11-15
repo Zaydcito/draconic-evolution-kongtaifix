@@ -1,0 +1,8 @@
+build/
+coverage/
+.pnpm-store/
+yarn-error.log*
+dist/
+.next/
+.env
+.env.local
